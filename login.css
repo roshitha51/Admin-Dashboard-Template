@@ -1,0 +1,93 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+
+.background
+{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQqU-usLoUv537kWdcJmUSMj6kyCAFDXMy4g&usqp=CAU");
+    background-size:cover;
+    height:100vh;
+}
+.card1
+{
+   background:transparent;
+   backdrop-filter: blur(4px);
+    background-size:cover;
+   width:35vw;
+   text-align: center;
+   border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 20px;
+  padding-bottom:20px;
+}
+.heading
+{
+    font-style: italic;
+    font-weight:bold;
+    color:#51aade;
+    text-align: center;
+}
+.login-head
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+    color:#51aade;
+    text-align: center;
+    font-size: 45px;
+}
+.input
+{
+   background-color:transparent;
+   border-color:#ffffff;
+   border-style:solid;
+   border-width:2px;
+   border-radius:40px;
+   height:40px;
+   width:300px;
+   padding-left:20px;
+   color:#ffffff;
+   font-weight:500;
+}
+::placeholder
+{
+    color:#ffffff;
+    font-weight:400;
+}
+#icon
+{
+    position: relative;
+    right:40px;
+    color: black;
+}
+.checkbox
+{
+    color:#ffffff;
+    font-weight:500;
+    padding-left:5px;
+}
+.loginbtn
+{
+    color:black;
+    font-weight:bold;
+    background-color: #51aade;
+    height:40px;
+    width:170px;
+    border-width:0px;
+    border-radius:20px;
+}
+.note
+{
+    color:#ffffff;
+    font-weight:500;
+    font-style:italic;
+    font-size:20px;
+}
+.para
+{
+    color:red;
+    font-weight:500;
+
+
+}
